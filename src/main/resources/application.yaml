@@ -5,4 +5,4 @@ aws:
     access-key: 
     secret-key: 
   dynamodb:
-    endpoint: https://dynamodb.us-east-2.amazonaws.com/717279693027/order
+    endpoint: https://dynamodb.us-east-2.amazonaws.com/j/order
