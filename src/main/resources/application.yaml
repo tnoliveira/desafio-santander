@@ -2,7 +2,7 @@ aws:
   region:
     static: us-east-2
   credentials:
-    access-key: AKIA2OAJTRDRYLNQZGRO
-    secret-key: 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
+    access-key: 
+    secret-key: 
   dynamodb:
     endpoint: https://dynamodb.us-east-2.amazonaws.com/717279693027/order
